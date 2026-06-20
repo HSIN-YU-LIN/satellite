@@ -1,0 +1,6 @@
+{
+  "name": "太空衛星軌道追蹤器",
+  "description": "具有互動式 3D 模擬的太空衛星軌道即時追蹤器，包含八個衛星的詳細軌道參數、可自訂的 YouTube 現場衛星直播內嵌，以及能解答軌道物理與任務分析的 AI 導航助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
